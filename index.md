@@ -7,7 +7,7 @@
  
  dev-doku.netlify.app aktiv ![Website](https://img.shields.io/website-ja-nein-green-red/https/dev-doku.netlify.app/)
  
- dev2.echtme.ga aktiv ![Website](https://img.shields.io/website-ja-nein-green-red/https/dev2.echtme.ga)
+ dev2.echtme.ga aktiv ![Website](https://img.shields.io/website-ja-ja-green-green/https/dev2.echtme.ga)
  
  
  
